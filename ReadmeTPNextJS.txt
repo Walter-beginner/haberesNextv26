@@ -8,4 +8,5 @@ Quedó pendiente efectuar una resumida liquidación de sueldo automática por me
 Pendiente el crud por id (hay que completar algo de sueldos y eliminar esa dependencia a que existan los datos para generar una vista)
 El proyecto tiene muy poco de edición gráfica hasta el momento. 
 
+despliegue Vercel: https://haberes-nextv26-git-main-walterbeginners-projects.vercel.app/empleados
  
